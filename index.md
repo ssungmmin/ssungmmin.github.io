@@ -5,5 +5,5 @@ Until recently I was an undergraduate exchange student at <span style="color:Blu
 
 
 ### Contact
-Email: [sungminp@uw.edu](sungminp@uw.edu)
+Email: [sungminp@uw.edu](sungminp@uw.edu) <br>
 Resume : click [here](https://drive.google.com/file/d/1xNflip4SLkxfbd0UY-SgF-d4yLLbMnLD/view?usp=sharing) to view/download my resume. 
