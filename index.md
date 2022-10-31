@@ -1,7 +1,7 @@
 ## Sung Min Park
 Hello, my name is Sungmin (pronouns: she/her) and I am a second year Imaging Science Ph.D Student at Washington University in St. Louis. My long term goal is to develop neuroimaging biomarkers for neuropsychiatric disorders. 
 
-- 💡[Brain Light Lab](https://www.mir.wustl.edu/research/research-centers/biophotonics-research-center-brc/labs/eggebrecht-lab/)
+- 💡 *2021-Now* [Brain Light Lab](https://www.mir.wustl.edu/research/research-centers/biophotonics-research-center-brc/labs/eggebrecht-lab/)
 
 - 🧠 *2020-2021* Researcher at [MoNeT](http://neuroimage.yonsei.ac.kr) (**Mo**lecular **Ne**uroimaging **T**echnology) Laboratory at Yonsei University School of Medicine (Department of Nuclear Medicine) where I used resting-state fMRI and structural MRI to investigate neurodevelopmental disorders. I used to work as a research intern at the MoNet laboratory during my undergraduate (*2018-2019*).
 
